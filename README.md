@@ -1,10 +1,9 @@
-<h1 align="center">Hello world, I'm self taught software develper</h1>
-<h3 align="center">A student who love to code stuff currently on highschool</h3>
+<h1 align="center">Hello world!, I'm self taught software dev :#</h1>
+<h3 align="center">A student who love to code stuff currently in highschool, TH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=th4phat&label=Profile%20views&color=0e75b6&style=flat" alt="th4phat" /> </p>
-<p>I'm a passionate student loving to solve a problem and do silly project</p>
+<p>Mostly just my silly project</p>
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/82431554/330341290-936128d9-95c7-4577-a095-72a934540206.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240514%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240514T081017Z&X-Amz-Expires=300&X-Amz-Signature=62ab23600b232b48b7dea202e48f45b30c03e65c1b2a002c91f49f3872e729de&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=800369383" alt="bash" width="400" height="400"/>
 
 <p align="left">
 </p>
